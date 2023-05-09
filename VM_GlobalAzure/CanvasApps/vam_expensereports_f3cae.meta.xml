@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>vam_expensereports_f3cae</Name>
+  <AppVersion>2023-05-02T05:25:38Z</AppVersion>
+  <Status>Ready</Status>
+  <CreatedByClientVersion>3.23042.12.0</CreatedByClientVersion>
+  <MinClientVersion>3.23042.12.0</MinClientVersion>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","publisherVersion":"3.23042.12","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <IsCdsUpgraded>0</IsCdsUpgraded>
+  <GalleryItemId xsi:nil="true"></GalleryItemId>
+  <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
+  <DisplayName>Expense Reports</DisplayName>
+  <Description></Description>
+  <CommitMessage></CommitMessage>
+  <Publisher></Publisher>
+  <AuthorizationReferences>[]</AuthorizationReferences>
+  <ConnectionReferences>{"eec70389-7c97-46ef-ab81-8c82d6373b77":{"id":"/providers/microsoft.powerapps/apis/shared_office365users","displayName":"Office 365 Users","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1626/1.0.1626.3238/office365users/icon.png","dataSources":["Office365Users"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"bypassConsent":false,"dataSets":{},"apiTier":"Standard"}}</ConnectionReferences>
+  <DatabaseReferences>{}</DatabaseReferences>
+  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanvasAppType>0</CanvasAppType>
+  <BypassConsent>0</BypassConsent>
+  <EmbeddedApp xsi:nil="true"></EmbeddedApp>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
+  <IsCustomizable>1</IsCustomizable>
+  <BackgroundImageUri>/CanvasApps/vam_expensereports_f3cae_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/vam_expensereports_f3cae_DocumentUri.msapp</DocumentUri>
+</CanvasApp>
